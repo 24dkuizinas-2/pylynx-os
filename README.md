@@ -2,7 +2,7 @@
 
 ![PyLynx Logo](Logo.png)
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/24dkuizinas-2/pylynx-os/build.yml?branch=main)](https://github.com/24dkuizinas-2/pylynx-os/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/24dkuizinas-2/pylynx-os/build.yml?branch=main)](https://github.com/24dkuizinas-2/pylynx-os)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/Powered%20by-Linux-green.svg)](https://kernel.org)
