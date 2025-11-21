@@ -1,6 +1,6 @@
 # PyLynx OS 🐍🐱
 
-![PyLynx Logo](docs/logo.png)
+![PyLynx Logo](Logo.png)
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourname/pylynx-os/build.yml?branch=main)](https://github.com/yourname/pylynx-os/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
