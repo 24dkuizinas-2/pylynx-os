@@ -30,4 +30,4 @@ It blends the **lynx’s agility** with the **python’s strength** — a mythic
 
 ### Build in GitHub Codespaces
 
-[Releases]([)](https://github.com/24dkuizinas-2/pylynx-os/releases)
+[Releases](https://github.com/24dkuizinas-2/pylynx-os/releases)
