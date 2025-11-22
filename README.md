@@ -30,8 +30,4 @@ It blends the **lynx’s agility** with the **python’s strength** — a mythic
 
 ### Build in GitHub Codespaces
 
-```bash
-git clone https://github.com/yourname/pylynx-os.git
-cd pylynx-os/buildroot
-make BR2_EXTERNAL=../ overlay_defconfig
-make
+[Releases](/24dkuizinas-2/pylynx-os/main/releases)
