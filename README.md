@@ -28,36 +28,36 @@ It blends the **lynx’s agility** with the **python’s strength** — a mythic
 
 ## 🚀 Getting Started
 
-# Step One
+## Step One
 Go to your Linux computer and open the ISO file.
 
-# Step Two
+## Step Two
 Install the ISO file by first installing `isoget`:
 
 ```bash
-$ sudo apt install isoget
-$ sudo isoget -i /root/etc/isofiles/pylynx.iso
+sudo apt install isoget
+sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-## Alpine users
+### Alpine users
 ```bash
-$ sudo apk install isoget-alpine
-$ sudo isoget -i /root/etc/isofiles/pylynx.iso
+ sudo apk install isoget-alpine
+ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-## Arch Linux users
+### Arch Linux users
 ```bash
-$ sudo pacman install isoget-arlin
-$ sudo isoget -i /root/etc/isofiles/pylynx.iso
+ sudo pacman install isoget-arlin
+ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-## Fedora users
+### Fedora users
 ```bash
-$ sudo dnf install isoget-fedora
-$ sudo isoget -i /root/etc/isofiles/pylynx.iso
+ sudo dnf install isoget-fedora
+ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-## These are the only operating systems we currently support, if you would like to request any more ones please put a comment under this with the operating system that you want!
+#### These are the only operating systems we currently support, if you would like to request any more ones please put a comment under this with the operating system that you want!
 
 
 [Releases](https://github.com/24dkuizinas-2/pylynx-os/releases)
