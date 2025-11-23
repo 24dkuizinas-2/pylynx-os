@@ -41,13 +41,13 @@ sudo isoget -i /root/etc/isofiles/pylynx.iso
 
 ### Alpine users
 ```bash
- sudo apk install isoget-alpine
+ sudo apk add isoget-alpine
  sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
 ### Arch Linux users
 ```bash
- sudo pacman install isoget-arlin
+ sudo pacman -s isoget-arlin
  sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
