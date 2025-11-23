@@ -39,19 +39,19 @@ $ sudo apt install isoget
 $ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-# Alpine users
+## Alpine users
 ```bash
 $ sudo apk install isoget-alpine
 $ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-# Arch Linux users
+## Arch Linux users
 ```bash
 $ sudo pacman install isoget-arlin
 $ sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
-# Fedora users
+## Fedora users
 ```bash
 $ sudo dnf install isoget-fedora
 $ sudo isoget -i /root/etc/isofiles/pylynx.iso
