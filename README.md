@@ -28,6 +28,30 @@ It blends the **lynx’s agility** with the **python’s strength** — a mythic
 
 ## 🚀 Getting Started
 
-### Build in GitHub Codespaces
+## Step One
+# Go to your linux computer and open the iso file
+## Step Two
+# Install the iso file by first installing isoget 
+'''bash
+sudo apt install isoget
+sudo isoget -i /root/etc/isofiles/pylynx.iso
+
+# Alpine users
+'''bash
+sudo apk install isoget-alpine
+sudo isoget -i /root/etc/isofiles/pylynx.iso
+
+# Arch Linux users
+'''bash
+sudo pacman install isoget-arlin
+sudo isoget -i /root/etc/isofiles/pylynx.iso
+
+# Fedora users
+'''bash
+sudo dnf install isoget-fedora
+sudo isoget -i /root/etc/isofiles/pylynx.iso
+
+## These are the only operating systems we currently support, if you would like to request any more ones please put a comment under this with the operating system that you want!
+
 
 [Releases](https://github.com/24dkuizinas-2/pylynx-os/releases)
