@@ -35,26 +35,8 @@ Go to your Linux computer and open the ISO file.
 Install the ISO file by first installing `isoget`:
 
 ```bash
-sudo apt install isoget
+sudo apt install isoget.deb
 sudo isoget -i /root/etc/isofiles/pylynx.iso
-```
-
-### Alpine users
-```bash
- sudo apk add isoget-alpine
- sudo isoget -i /root/etc/isofiles/pylynx.iso
-```
-
-### Arch Linux users
-```bash
- sudo pacman -s isoget-arlin
- sudo isoget -i /root/etc/isofiles/pylynx.iso
-```
-
-### Fedora users
-```bash
- sudo dnf install isoget-fedora
- sudo isoget -i /root/etc/isofiles/pylynx.iso
 ```
 
 #### These are the only operating systems we currently support, if you would like to request any more ones please put a comment under this with the operating system that you want!
